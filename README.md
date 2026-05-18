@@ -12,10 +12,10 @@ This project demonstrates Linux system administration concepts such as:
 ---
 
 ## Project Structure
-.
-├── motd_creator.sh
-├── service_file_creator.sh
-└── timer_creator.sh
+
+motd_creator.sh
+service_file_creator.sh
+timer_creator.sh
 
 ---
 
