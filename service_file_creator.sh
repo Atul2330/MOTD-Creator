@@ -1,6 +1,6 @@
 #!/bin/bash
 
-./motd_creator.sh
+sudo ./motd_creator.sh
 
 cp ./motd_creator.sh /usr/local/bin/motd
 
